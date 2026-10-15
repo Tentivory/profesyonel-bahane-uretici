@@ -1,0 +1,8 @@
+# Bu proje hiçbir dış kütüphaneye ihtiyaç duymaz.
+# Çünkü bilim öyle istedi.
+# (Ve ben tembelim.)
+
+# random
+# time
+# sys
+# bunlar zaten Python ile gelir. Şükürler Python.
